@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="article">Article</string>
+    <string name="favorite_emails">Favorite Emails</string>
+    <string name="favorite_shared">Favorite Shared</string>
+    <string name="favorite_viewed">Favorite Viewed</string>
+    <string name="navigation_drawer_open">Navigation drawer open</string>
+    <string name="navigation_drawer_close">Navigation drawer close</string>
+    <string name="emailed_fragment">Emailed Fragment</string>
+    <string name="shared_fragment">Shared Fragment</string>
+    <string name="viewed_fragment">Viewed Fragment</string>
+    <string name="saved">Saved</string>
+    <string name="detail">Detail</string>
+</resources>
